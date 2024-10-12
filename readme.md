@@ -104,6 +104,8 @@ A terceira regra é determinar quanto tempo o usuário quer que seu treino dure.
 | **60 minutos** | Três exercícios por grupo muscular, cada um com quatro séries.                   |
 | **75 minutos** | Idem 60 minutos, com acréscimo de um tipo de exercício (consulte tabela abaixo). |
 
+---
+
 ## 🏋️ Tipos de Exercícios
 
 A quarta regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
