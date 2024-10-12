@@ -99,10 +99,10 @@ A terceira regra é determinar quanto tempo o usuário quer que seu treino dure.
 
 |**Imagem**                                                         | **Duração**    | **Descrição**                                                            |
 | ----------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------ |
-| <img src=".github/assets/30minutos.png" width="50%" height="50%"> | **30 minutos** | Um a dois exercícios por grupo muscular, cada um com três séries.        |
-| <img src=".github/assets/45minutos.png" width="50%" height="50%"> | **45 minutos** | Dois a três exercícios por grupo muscular, cada um com três séries.      |
-| <img src=".github/assets/60minutos.png" width="50%" height="50%"> | **60 minutos** | Três exercícios por grupo muscular, cada um com quatro séries.           |
-| <img src=".github/assets/75minutos.png" width="50%" height="50%"> | **75 minutos** | Idem 60 minutos, com acréscimo de 15 minutos de outro tipo de exercício. |
+| <img src=".github/assets/30minutos.png" width="50" height="50"> | **30 minutos** | Um a dois exercícios por grupo muscular, cada um com três séries.        |
+| <img src=".github/assets/45minutos.png" width="50" height="50"> | **45 minutos** | Dois a três exercícios por grupo muscular, cada um com três séries.      |
+| <img src=".github/assets/60minutos.png" width="50" height="50"> | **60 minutos** | Três exercícios por grupo muscular, cada um com quatro séries.           |
+| <img src=".github/assets/75minutos.png" width="50" height="50"> | **75 minutos** | Idem 60 minutos, com acréscimo de 15 minutos de outro tipo de exercício. |
 
 ---
 
