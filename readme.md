@@ -79,11 +79,15 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 | **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
 | -------------------------------------------------------------- | ------------------- | --------------------------- |
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 1 dia               | Treino Full Body            |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 2 dias              | Treino AB                   |
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC                  |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 4 dias              | Treino ABCD                 |
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                |
 
 - **Full Body**: Treino que trabalha o corpo todo em uma única sessão.
-- **ABC**: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
+- **AB**: Divisão do treino em dois dias: um para os músculos frontais, outro para os dorsais.
+- **ABC**: Divisão do treino em três dias, cada um focado em grupos musculares diferentes (*push*-*pull*-*legs*).
+- **ABCD**: Divisão do treino em quatro dias, com foco mais específico em grupos musculares complementares.
 - **ABCDE**: Divisão do treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
 
 ---
@@ -107,7 +111,7 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
 3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+4. **Use o prompt do assistente** para gerar um plano de treino personalizado.
 
 ---
 
