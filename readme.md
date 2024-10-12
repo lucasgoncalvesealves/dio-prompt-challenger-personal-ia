@@ -99,10 +99,10 @@ A terceira regra é determinar quanto tempo o usuário quer que seu treino dure.
 
 |**Imagem**                                                         | **Duração**    | **Descrição**                                                            |
 | ----------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------ |
-| <img src=".github/assets/30minutos.png" width="50" height="50"> | **30 minutos** | Um a dois exercícios por grupo muscular, cada um com três séries.        |
-| <img src=".github/assets/45minutos.png" width="50" height="50"> | **45 minutos** | Dois a três exercícios por grupo muscular, cada um com três séries.      |
-| <img src=".github/assets/60minutos.png" width="50" height="50"> | **60 minutos** | Três exercícios por grupo muscular, cada um com quatro séries.           |
-| <img src=".github/assets/75minutos.png" width="50" height="50"> | **75 minutos** | Idem 60 minutos, com acréscimo de 15 minutos de outro tipo de exercício. |
+| <img src=".github/assets/30minutos.png" width="75" height="75"> | **30 minutos** | Um a dois exercícios por grupo muscular, cada um com três séries.        |
+| <img src=".github/assets/45minutos.png" width="75" height="75"> | **45 minutos** | Dois a três exercícios por grupo muscular, cada um com três séries.      |
+| <img src=".github/assets/60minutos.png" width="75" height="75"> | **60 minutos** | Três exercícios por grupo muscular, cada um com quatro séries.           |
+| <img src=".github/assets/75minutos.png" width="75" height="75"> | **75 minutos** | Idem 60 minutos, com acréscimo de 15 minutos de outro tipo de exercício. |
 
 ---
 
@@ -110,13 +110,13 @@ A terceira regra é determinar quanto tempo o usuário quer que seu treino dure.
 
 A quarta regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
 
-| **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                     |
-| ---------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------- |
-| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.    |
-| <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.              |
-| <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, que trabalham vários grupos musculares simultaneamente. |
-| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios para resistência cardiovascular, como corrida ou ciclismo.             |
-| <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.          |
+| **Imagem**                                                     | **Tipo de Treino** | **Descrição**                                                                     |
+| -------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------- |
+| <img src=".github/assets/dumbells.png" width="75" height="75"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.    |
+| <img src=".github/assets/4760665.png" width="75" height="75">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.              |
+| <img src=".github/assets/barr.png" width="75" height="75">     | **Peso Livre**     | Exercícios com pesos livres, que trabalham vários grupos musculares simultaneamente. |
+| <img src=".github/assets/cardio.png" width="75" height="75">   | **Cardio**         | Exercícios para resistência cardiovascular, como corrida ou ciclismo.             |
+| <img src=".github/assets/hiit.png" width="75" height="75">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.          |
 
 ---
 
